@@ -32,6 +32,7 @@ $$a \oplus b = x \cdot y$$
 chsh-game/
 ├── README.md           # Project documentation
 └── chsh_game.ipynb     # Interactive Jupyter notebook
+```
 
 ---
 
