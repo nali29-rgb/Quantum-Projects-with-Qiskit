@@ -36,7 +36,7 @@ chsh-game/
 
 ---
 
-**Quickstart**
+## Quickstart
 
 ### Prerequisites
 * **Python:** Version 3.10 or higher
