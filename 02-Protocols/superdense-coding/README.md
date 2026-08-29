@@ -125,12 +125,7 @@ Sent: 11  |  Measured Counts: {'11': 1024}
 ```text
 .
 ├── superdense_coding.ipynb    # Main Jupyter Notebook containing step-by-step code & markdown
-├── README.md                  # Project overview and documentation
-└── requirements.txt           # Project dependencies
+└── README.md                  # Project overview and documentation
 ```
 
 ---
-
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
