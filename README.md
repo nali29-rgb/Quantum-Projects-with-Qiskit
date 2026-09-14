@@ -110,10 +110,10 @@ These projects are part of my ongoing study of quantum computing and quantum inf
 - [x] Quantum Teleportation
 - [x] Superdense Coding
 - [x] CHSH Game
+- [x] Deutsch–Jozsa Algorithm
 
 ### In Progress
 
-- [ ] Deutsch–Jozsa Algorithm
 - [ ] Grover's Search Algorithm
 - [ ] Additional quantum algorithms
 - [ ] More experiments involving noisy simulation and real quantum hardware
