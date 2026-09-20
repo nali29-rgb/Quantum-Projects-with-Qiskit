@@ -10,7 +10,7 @@ My goal with this repository is to develop a practical understanding of quantum 
 
 ### 01 — Fundamentals
 
-#### [Bell State Generator](./01-Fundamentals/Bell-State-Generator/)
+#### Bell State Generator
 
 A modular implementation for generating all four Bell states:
 
